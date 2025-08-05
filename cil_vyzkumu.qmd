@@ -1,5 +1,32 @@
 ---
 title: "Cíl výzkumu"
+format: 
+  html:
+    css: index.css
+    anchor-sections: false
 ---
 
-...
+Výzkumný projekt **ai:dolescence** má jeden hlavní cíl:  
+pochopení toho, **jak studenti středních škol vnímají AI, pro jaké účely ji využívají a jaké znalosti a dovednosti v oblasti využívání AI sami mají**. Projekt tak rozšiřuje aktuální znalosti o užívání a dopadu AI na vzdělávání studentů na středních školách.  
+
+Zajímá nás i vnímání AI učiteli a jejich dosavadní znalosti a zkušenosti s využíváním AI pro účely výuky. Na základě toho výzkum formuluje konkrétní kroky vedoucí k bezpečnému využívání AI nástrojů, a to na celostátní úrovni.  
+
+**Data budou sbírána pomocí online dotazníku**, který studenti a učitelé vyplní během vyučovací hodiny ve škole.  
+Dotazník obsahuje otázky o postojích, znalostech a dovednostech vztahujících se k AI a otázky o tom, jak se postoje k AI šíří.  
+
+
+## Důležitost výzkumu
+
+### Pro školy
+
+Výzkum školám nabízí unikátní příležitost spolehlivě **zjistit, jak si v rámci tříd studenti stojí vzhledem k využívání AI nástrojů a znalostem**, které o nich mají.  
+K tomu budou využity pokročilé statistické metody, které umožní odhalit hlubší souvislosti než pouhý popis reality.  
+
+### Pro společnost
+
+Výzkum má důležitý společenský přesah. Jedná se o **první takto velký výzkum AI gramotnosti u studentů** na středních školách v České republice.  
+**Výzkum výrazně přispívá k ukotvení samotného pojmu AI gramotnosti** a nabízí společnosti obraz o tom, jak studenti na středních školách s nástroji AI pracují, proč je využívají, jaký k nim mají vztah a také to, jaké znalosti o nástrojích AI mají.  
+
+To je podstatné pro další fungování celé společnosti, jelikož si projekt klade za cíl přispět k **prevenci sociálně patologických jevů** a **jasně definuje, jaké potřeby mají v oblasti AI sami učitelé**.
+
+  </section>
