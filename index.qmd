@@ -7,16 +7,92 @@ format:
     css: [index.css]
 ---
 
-# Nadpis první úrovně
 
-One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
+# O projektu
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="images/logo2.png" alt="Popis obrázku" style="width: 50%;">
+  </div>
+  <div style="flex: 1;">
+    Projekt <b>ai:dolescence</b> je prvním takto velkým výzkumným šetřením v ČR, které se zabývá <b>výzvami spojenými s využíváním umělé inteligence (AI) ve vzdělávání</b> pohledem studentů i učitelů. Cílem projektu je <b>přímo působit na vývoj vzdělávací politiky</b> tak, aby byla v souladu s reálnými potřebami.
+  </div>
+</div>
 
-## Nadpis druhé úrovně
+<br><br>
 
-He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7PHeCyvC2c?si=Y5b_CR9rZowjieZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br><br>
 
-### Nadpis třetí úrovně
+## MEDIS:ON
 
-His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me? " he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.
+Ai:dolescence je součástí velkého projektu Zprostředkovaná společnost (MEDIS:ON), který se věnuje <b>vlivu moderních technologií na každodenní život a společenské vztahy</b>. Digitální média, sociální sítě a AI stále více ovlivňují, jak lidé komunikují, jak si vytvářejí své názory, hodnoty a identitu. Tento projekt propojuje vědce, aby společně nabídli vysvětlení toho, jak digitální prostředí mění interakce mezi lidmi i jejich vztah ke společnosti. MEDIS:ON klade důraz na <b>pochopení toho, jak se lidé učí, komunikují a rozhodují v této propojené digitální a fyzické realitě</b>.
+
+Výzkum pomáhá lépe porozumět tomu, jak technologie ovlivňují lidské schopnosti a jak může společnost reagovat na nové výzvy i příležitosti, které digitální svět přináší.
+
+## Kdo se na výzkumu ai:dolescence podílí?
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+
+<a href="https://www.phil.muni.cz/" target="_blank" style="text-decoration: none;">
+  <img src="https://muni.brandcloud.pro/storage/10488/previews/500x500/76ba025bfdcca168659a5bf73029c649.webp" alt="Filozofická fakulta MU" style="width: 150px;">
+</a>
+
+<a href="https://www.fss.muni.cz/" target="_blank" style="text-decoration: none;">
+  <img src="https://muni.brandcloud.pro/storage/10488/previews/1000x/e2802cc1774aa3b0248f92e75887b11e.webp" alt="FSS MU" style="width: 150px;">
+</a>
+
+<a href="https://psu.cas.cz/cs/index.html" target="_blank" style="text-decoration: none;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfKX-MhpRyXuuV3wbJjJk95QXhRm7GkuLEA&s" alt="Psychologický ústav AV ČR" style="width: 150px;">
+</a>
+
+</div>
+
+<br><br>
+
+### Financování
+
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+<a href="https://www.msmt.cz" target="_blank" style="text-decoration: none;">
+  <img src="https://msmt.gov.cz/uploads/gallery/full/1498.jpg" alt="MŠMT logo" class="image" style="width: 200px; display: block;">
+</a>
+</div>
+
+<br><br>
+
+## Fáze výzkumného šetření
+
+Momentálně se nacházíme ve barevném rámečku.
+
+<img src="images/Diagr.png" style="width:100%">
+
+<br><br>
+
+## Výzkumný tým
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="images/Lintner.jpeg" style="width:100%">
+      <div class="container">
+        <h2>Tomáš Lintner, Ph.D.</h2>
+        <p class="title">Vedoucí výzkumu</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="images/Babyrádová.jpeg" style="width:100%">
+      <div class="container">
+        <h2>Mgr. Veronika Babyrádová</h2>
+        <p class="title">Art Director</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="button-container">
+  <button class="btn success">Poznej zbytek týmu</button>
+</div>
