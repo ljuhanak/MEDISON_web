@@ -19,35 +19,26 @@ website:
         href: prinos_projektu.qmd
       - text: "Výsledky výzkumu"
         href: vysledky_vyzkumu.qmd
-        
-  search: 
-    location: navbar
-    type: textbox
-  
+
   back-to-top-navigation: true
   
   page-footer: 
-    
+     
     background: light
     border: false
     left: "ai:dolescence, ©2025"
     right: 
-      - icon: youtube 
-        href: https://youtube.com/
-      - icon: twitter 
-        href: https://twitter.com/
       - icon: facebook 
         href: https://facebook.com/
-      - icon: github
-        href: https://github.com/
 
     
 
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: minty
+      dark: false
+      font-family: exo 2
     css: styles.css
     toc: false
 
